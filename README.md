@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MrCont
+- 👀 I’m interested in python scripting, linux and software development
+- 🌱 I’m currently learning computer engineering
+- 📫 How to reach me @mail contini.aron99@protonmail.com 
